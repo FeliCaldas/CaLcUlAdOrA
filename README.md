@@ -1,1 +1,2 @@
 # CaLcUlAdOrA
+Projeto de calculadora que funciona o seguinte: tem o scanner que lê o que o usuário digita, depois é dada a opção de digitar dois numeros, depois o usuário escolhe a operação que quer fazer, e por fim o programa retorna o resultado da operação.
